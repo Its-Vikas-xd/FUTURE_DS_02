@@ -1,4 +1,4 @@
-readme_content = """
+
 # 📊 Social Media Campaign Performance – Facebook vs Instagram
 
 ## 📌 Overview  
@@ -57,10 +57,4 @@ It provides actionable insights into **impressions, CTR, spend, revenue, and eng
 - **LinkedIn**: [Vikas Sharma](https://www.linkedin.com/in/vikas-sharma-493115361/)  
 
 ---
-"""
 
-# Save README.md
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(readme_content)
-
-print("✅ README.md file created successfully!")
